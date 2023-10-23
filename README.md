@@ -1,3 +1,5 @@
+This is my final 42 project of the third circle of my core curriculum at 42 Heilbronn: a mini-version of Bash, featuring its pipes, redirections, signals and builtins.
+
 # Minishell, almost as awesome as Bash.
 
 ![Screenshot-terminal](https://user-images.githubusercontent.com/92089944/224225348-60435cf6-90f9-4683-8043-36d0cb7dcd7f.jpeg)
