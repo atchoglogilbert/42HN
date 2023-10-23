@@ -1,0 +1,18 @@
+NO ./drawable/wall.png
+EA ./drawable/wall.png
+SO ./drawable/wall.png
+WE ./drawable/wall.png
+
+C 255,22,22
+F 10,255,25
+
+    111
+    101
+1111101111111111
+1000000000000001
+1000000000000001
+111110000N000001
+    100000111111
+    100001
+    100001
+    111111
