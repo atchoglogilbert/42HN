@@ -2,4 +2,4 @@
 
 A collection of projects completed during the 42 Heilbronn curriculum, including core curriculum projects, piscine projects, and personal projects.
 
-![screenshot-intra-project-page](https://user-images.githubusercontent.com/92089944/234432793-970b107c-8d05-4724-8076-89b565a16c58.png)
+![Screenshot-terminal](https://user-images.githubusercontent.com/92089944/224225348-60435cf6-90f9-4683-8043-36d0cb7dcd7f.jpeg)
